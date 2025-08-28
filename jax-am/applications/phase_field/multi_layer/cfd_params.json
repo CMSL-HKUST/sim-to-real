@@ -1,0 +1,19 @@
+{
+    "P": 155,
+    "speed": 0.95,
+    "rb": 4e-5,
+    "eta": 0.6,
+    "dt": 4e-7,
+
+    "rho": 8084,
+    "visco": 6e-3,
+    "Marangoni": -4e-4,    
+    "T_ref": 300,
+    "Ts": 1650,
+    "Tl": 1723,
+    "latent_heat": 270000,
+    "heat_source": 1, 
+    "phi": 6.5e-16,
+    "write_sol_interval": 2100,
+    "check_sol_interval": 50
+}

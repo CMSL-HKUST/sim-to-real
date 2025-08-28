@@ -1,0 +1,30 @@
+###
+# Identifier (used as seed of the random number generator to compute initial seed positions in Neper teselllation)
+id: 1
+
+# Dimension
+dim: 3
+
+###s
+# Mesh size. [m]
+mesh_size: 0.000002
+
+###
+# Number of orientations.
+num_oris: 20
+
+###
+# Number of grains.
+num_grains: 6000
+
+###
+# The height of the domain (z-direction domain size). Unit: [m]
+domain_z: 0.032e-3
+
+###
+# The width of the domain (y-direction domain size). Unit: [m]
+domain_y: 0.5e-3
+
+###
+# The length of the domain (x-direction domain size). Unit: [m]
+domain_x: 1.e-3

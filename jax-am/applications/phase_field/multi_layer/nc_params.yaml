@@ -1,0 +1,43 @@
+###
+# Boltzmann constant. Unit: [m^2*kg/s^2*K]
+k: 1.38e-23
+
+###
+# Planck's constant. Unit: [J*s]
+h: 6.626e-34
+
+###
+# activation energy for diffusion of the atoms. Unit:[J/mol] --not sure if it is the same as Qg
+Qd: 1.4e+5
+
+###
+# gas constant. Unit: [J/K/mol]
+R: 8.314
+
+###
+# contact angle. Unit: [degree] --this value should be in (theta/180)pi.
+theta: 4.
+
+###
+# L/S interfacial energy. Unit: [J/m^2]
+sigma_p: 0.385
+
+###
+# Latent heat of fusion. Unit: [J/m^3]
+Lm: 2.1e+9
+
+###
+# Liquidus temperature. Unit: [K]
+Tl: 1723
+
+###
+# number of atoms on the ls interface. Unit:[number/m^2]
+N_atom: 2.1e+10
+
+###
+# time step
+dt: 2.e-7
+
+###
+# mesh size
+dx: 2.e-6
