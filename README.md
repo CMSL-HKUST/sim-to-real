@@ -26,7 +26,7 @@ __Phase-field (PF)__
 
  ## Denoising diffusion probalistic moedl (DDPM)
 
-A conditional DDPM pre-trained with the simulation microstructures. Then fine-tuned or distilled with experiment microstructures. 
+A conditional DDPM pre-trained with the simulation microstructures. Then fine-tuned or distilled with experiment microstructures. The code is build upon [Diffusers](https://github.com/huggingface/diffusers).
 
 <p align="middle">
   <img src="docs/tune.jpg" width="200" />
