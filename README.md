@@ -12,7 +12,7 @@ __Computational Fluid Dynamics (CFD)__
   <img src="docs/cfd.gif" width="700" />
 </p>
 <p align="middle">
-    <em >Multi-track CFD simulation for temperature field.</em>
+    <em >Multi-layer multi-track CFD simulation for temperature field.</em>
 </p>
 
 __Phase-field (PF)__
