@@ -9,7 +9,7 @@ This part is a modified version of the JAX-AM repository of our group (See [JAX-
 __Computational Fluid Dynamics (CFD)__
 
 <p align="middle">
-  <img src="docs/cfd.gif" width="500" />
+  <img src="docs/cfd.gif" width="700" />
 </p>
 <p align="middle">
     <em >Multi-track CFD simulation for temperature field.</em>
@@ -18,7 +18,7 @@ __Computational Fluid Dynamics (CFD)__
 __Phase-field (PF)__
 
 <p align="middle">
-  <img src="docs/pf.gif" width="500" />
+  <img src="docs/pf.gif" width="700" />
 </p>
 <p align="middle">
     <em >Multi-layer multi-track PF simulation for microsturcture field.</em>
