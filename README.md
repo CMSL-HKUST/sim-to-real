@@ -41,3 +41,5 @@ A conditional DDPM pre-trained with the simulation microstructures. Then fine-tu
 <p align="middle">
     <em >Microstructure predicted with distilled diffusion model.</em>
 </p>
+
+The pre-trained DDPM for cross-section microstructure generation can be found in [Releases](https://github.com/xiezy964/sim-to-real/releases/tag/model).
