@@ -43,3 +43,20 @@ A conditional DDPM is pre-trained with simulation microstructures. Then it is fi
 </p>
 
 The pre-trained DDPM for cross-section microstructure generation can be found in [Releases](https://github.com/xiezy964/sim-to-real/releases/tag/model).
+
+## Citations
+
+If you found this library useful, we appreciate your support if you consider citing the following paper:
+
+```bibtex
+@article{xie2026sim,
+  title={Sim-to-real diffusion models for microstructure prediction in metal additive manufacturing},
+  author={Xie, Ziyuan and Fu, Zichuan and Zhang, Jingchi and Zhang, Kaihao and Zeng, Tianchen and Wu, Yu and Liao, Shuheng and Li, Xiang and Xue, Tianju},
+  journal={Engineering with Computers},
+  volume={42},
+  number={2},
+  pages={63},
+  year={2026},
+  publisher={Springer}
+}
+```
